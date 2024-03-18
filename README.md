@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/grishonnganga" target="blank"><img src="https://img.shields.io/twitter/follow/grishonnganga?logo=twitter&style=for-the-badge" alt="grishonnganga" /></a> </p>
 
-- 🔭 I’m currently working on [Barter](https://bartr.africa)
+- 🔭 I’m currently working on [Scout](https://grish.xyz/scout)
 
 - 👯 I’m looking to collaborate on **AR/VR projects**
 
-- 🤝 I’m looking for help with **DSA**
-
 - 👨‍💻 All of my projects are available at [https://grish.xyz](https://grish.xyz)
 
-- 📝 I regularly write articles on [https://grish.xyz/blog](https://grish.xyz/blog)
+ <!--- 📝 I regularly write articles on [https://grish.xyz/blog](https://grish.xyz/blog)-->
 
 - 📫 How to reach me **grishon.nganga01@gmail.com**
 
@@ -25,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/grishonnganga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grishonnganga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/grishon-ng-ang-a-8426b5149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grishon-ng-ang-a-8426b5149" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/grishon-nganga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grishon-ng-ang-a-8426b5149" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
