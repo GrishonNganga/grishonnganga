@@ -19,6 +19,6 @@
     <animate attributeName="r" values="7;18" dur="1.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".8;0" dur="1.8s" repeatCount="indefinite"/>
   </circle>
-  <text class="t" x="72" y="50">It's around 12am in Nairobi.</text>
+  <text class="t" x="72" y="50">It's around 3am in Nairobi.</text>
   <text class="m" x="72" y="80">Should be asleep. Is not asleep.</text>
   <text class="s" x="968" y="96" text-anchor="end">UPDATES EVERY HOUR</text></svg>
